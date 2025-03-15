@@ -7,7 +7,13 @@
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
+#act {
+    width: 15%;
+}
 
+img {
+    height: 20%;
+}
 /* Estilos generales */
 * {
     margin: 0;
